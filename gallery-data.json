@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "category": "wedding",
+        "title": "Cặp đôi hạnh phúc",
+        "caption": "Lễ Cưới Mùa Xuân",
+        "image": "./img/gallery/wedding/wedding-1.jpg",
+        "alt": "Wedding Photo 1"
+    },
+    {
+        "id": 2,
+        "category": "wedding",
+        "title": "Váy cưới sang trọng",
+        "caption": "Bộ Ảnh Cô Dâu",
+        "image": "./img/gallery/wedding/wedding-2.jpg",
+        "alt": "Wedding Photo 2"
+    },
+    {
+        "id": 3,
+        "category": "wedding",
+        "title": "Ngày trọng đại",
+        "caption": "Khoảnh Khắc Hạnh Phúc",
+        "image": "./img/gallery/wedding/wedding-3.jpg",
+        "alt": "Wedding Photo 3"
+    },
+    {
+        "id": 4,
+        "category": "graduation",
+        "title": "Tốt nghiệp đại học",
+        "caption": "Lễ Tốt Nghiệp 2024",
+        "image": "./img/gallery/graduation/grad-1.jpg",
+        "alt": "Graduation Photo 1"
+    },
+    {
+        "id": 5,
+        "category": "graduation",
+        "title": "Kỷ yếu lớp 12",
+        "caption": "Kỷ Niệm Tuổi Học Trò",
+        "image": "./img/gallery/graduation/grad-2.jpg",
+        "alt": "Graduation Photo 2"
+    },
+    {
+        "id": 6,
+        "category": "graduation",
+        "title": "Bạn bè cùng lớp",
+        "caption": "Bạn Bè Cùng Nhau",
+        "image": "./img/gallery/graduation/grad-3.jpg",
+        "alt": "Graduation Photo 3"
+    },
+    {
+        "id": 7,
+        "category": "personal",
+        "title": "Chân dung nghệ thuật",
+        "caption": "Portrait Studio",
+        "image": "./img/gallery/personal/personal-1.jpg",
+        "alt": "Personal Photo 1"
+    },
+    {
+        "id": 8,
+        "category": "personal",
+        "title": "Phong cách thời trang",
+        "caption": "Fashion Photoshoot",
+        "image": "./img/gallery/personal/personal-2.jpg",
+        "alt": "Personal Photo 2"
+    },
+    {
+        "id": 9,
+        "category": "personal",
+        "title": "Ảnh ngoại cảnh",
+        "caption": "Outdoor Session",
+        "image": "./img/gallery/personal/personal-3.jpg",
+        "alt": "Personal Photo 3"
+    },
+    {
+        "id": 10,
+        "category": "product",
+        "title": "Sản phẩm công nghệ",
+        "caption": "Tech Product Review",
+        "image": "./img/gallery/product/product-1.jpg",
+        "alt": "Product Photo 1"
+    },
+    {
+        "id": 11,
+        "category": "product",
+        "title": "Đồ ăn thức uống",
+        "caption": "Food Photography",
+        "image": "./img/gallery/product/product-2.jpg",
+        "alt": "Product Photo 2"
+    },
+    {
+        "id": 12,
+        "category": "product",
+        "title": "Mỹ phẩm làm đẹp",
+        "caption": "Beauty Products",
+        "image": "./img/gallery/product/product-3.jpg",
+        "alt": "Product Photo 3"
+    }
+]
